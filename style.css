@@ -1,0 +1,28 @@
+h1{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+body{
+    color: brown;
+}
+#rcorner1{
+ border-radius: 25px;
+ background: lightpink;
+ background-position: left top;
+ background-repeat: repeat;
+ padding: 20px;
+ width: 200px;
+ height: 150px;
+}
+button{
+    color: brown;
+    text-decoration: burlywood;
+    text-align: center;
+    text-transform: uppercase;
+    text-size-adjust: 22;
+}
+button{
+    background-color: black;
+    text-decoration-color: yellow;
+}
